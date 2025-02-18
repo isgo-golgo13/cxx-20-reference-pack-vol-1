@@ -3,4 +3,4 @@ C++20 Reference Series Pack Vol I of Feature Changes to C++20
 
 ## Index
 
-- cxx-20-template-arg-deduction
+- cxx-20-if-constexpr
